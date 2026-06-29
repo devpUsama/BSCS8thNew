@@ -9,6 +9,8 @@ Week 2
 OPERATIONAL DATABASES (Brief overview Data Modeling and
 Normalization, and The Relational Model)
 
+#################
+
 
 Warehouse Architectures and Properties: What are the different layers of a data warehouse (Data source layer, Data staging layer and ETL process, Data storage layer,
 Data presentation layer) and
