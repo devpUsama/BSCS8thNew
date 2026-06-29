@@ -1,0 +1,125 @@
+Week 1
+Introduction of the Course and outline
+Data Communication
+Fundamental Characteristics of Data Communication
+Components of Data Communication
+Data Representation
+Data Flow (Simples, Half Duplex, Full Duplex)
+From chapter 1
+
+Week 2
+What Is Network?
+Network Criterion
+Types of Connection (Point to Point, Multipoint)
+Physical Topologies (Mesh, Star, Bus, Ring, Hybrid)
+Categories of Networks (Lan, Man, Wan)
+Protocols and Standards
+From chapter 1
+
+Week 3
+Layered Architecture
+Network Models
+The OSt Model
+Layers in the OSI Model (Brief Introduction)
+TCP/IP Protocol Suite
+From chapter 2
+
+Week 4
+Circuit Switching
+Applications
+Statistical Multiplexing *
+Packet Switching *
+Message Switching +
+Message Switching versus Packet Switching* Packet Switching versus Circuit Switching *
+How do loss and Delay occur?
+Delay in Packet-Switched Networks
+Didn’t mention the chapter. Search for it in the book. If not available then search from a reliable source
+
+Week 5
+Analog and Digital Signals
+Periodic Analog Signals
+Digital Signals
+Transmission Impairment
+Data Rate Limits
+Performance *
+From chapter 3
+
+Week 6
+Digital to Digital Conversion Analog to Digital Conversion
+Transmission Modes
+Digital-to-Analog Conversion
+Analog-to-Analog Conversion
+From chapter 4, 5
+
+Week 7
+Transmission Media
+Guided Media
+Unguided Media: Wireless
+Data Link Layer (Introduction)
+Block Coding
+Linear Block Codes
+Cyclic Codes
+Checksum
+From chapter 7,10
+
+Week 8
+Flow and Error Control
+Noiseless Channels
+Noisy Channels
+Multiple Access
+Randomness
+Connecting Devices
+Wired LAN (Ethernet)
+Wireless LAN
+From chapter 11 . 12, 13 , 14, 15
+
+Week 9
+Network Layer: Logical Addressing
+IPv4 Addressing
+IPv6 Addressing
+Internetworking and Subnetting
+From chapter 19 , 20
+
+Week 10
+Address Mapping
+ICMP Protocol
+Routing Protocol
+Unicast Routing Protocol
+From chapter 21 , 22
+
+Week 11
+Transport Layer: UDP and TCP
+Process-to-Process Delivery
+User Datagram Protocol (UDP)
+TCP
+From chapter 23
+
+Week 12
+Congestion
+Congestion Control
+Flow Control
+From chapter 24
+
+Week 13
+Application Layer: Domain Name System
+Name Space
+Domain Name Space
+Distribution of Name Space
+DNS in the Internet
+Resolution
+From chapter 25
+
+Week 14
+Application Layer: Electronic Mail and FTP
+Electronic Mail
+File Transfer Protocol (FTP)
+From chapter 26
+
+Week 15
+Application Layer: HTTP & WWW
+Web Documents
+HTTP
+Network Management System
+Simple Network Management Protocol (SNMP)
+From chapter 27, 28
+

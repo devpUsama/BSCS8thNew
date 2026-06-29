@@ -1,0 +1,53 @@
+Week 1
+Introduction
+Introduction of Al, basic component of Al, Identifying Al systems, branches of Al, etc.)
+
+Week 2
+Intelligent Agents:
+Agents and Environments, the Nature of Environments, the Structure of Agents (Types of Agents)
+
+Week 3
+Types of Agents
+Problem Solving by Searching (Informed searching, Un-informed searching, Local searching
+
+Week 4
+Uninformed searching: Depth First Search, Depth limited Search, Progressive Deepening, Breath First Search
+
+Week 5
+Informed Search and Exploration
+Informed (Heuristic) Search Strategies: Greedy Best-first Search, A * Search
+
+Week 6
+Constraint Satisfaction Problems: Backtracking Search for CSPs, Local Search for CSPs
+
+Week 7
+Adversarial Search (Games): Minimax Algorithm
+
+Week 8
+Adversarial Search (Games): Alpha-Beta Pruning, Game-playing
+
+Week 9
+Reasoning and Knowledge Representation
+Introduction to Reasoning and Knowledge Representation, Propositional Logic
+
+Week 10
+First order Logic
+Syntax and Semantics of First-Order Logic, Inference in First-Order Logic: Inference rules for quantifiers, A first-order inference rule, Unification, Forward Chaining, Backward Chaining, A backward chaining algorithm, Logic programming, the resolution inference rule
+
+Week 11
+Learning from Observations
+Learning (Unsupervised learning, Supervised learning, Reinforcement learning)
+Statistical Learning, Neural Networks
+
+Week 12
+Uncertainty handling (Uncertainty in Al, Fuzzy logic);
+Fuzzy systems
+What are set, fuzzy set, fuzzy logic? Difference between Boolean and fuzzy logic.
+Fuzzy VS probability, logical and fuzzy operators, Fuzzy inference systems
+
+Week 13
+Expert system: History and Evolution, Comparison of a human expert and Expert system, How expert system are used? Expert system structure with example, Programming verses knowledge engineering
+
+Week 14
+Recent trends in Al (computer vision, robotics, soft computing, clustering) and applications of Al algorithms (trends, Case study of Al systems, Analysis of Al systems
+

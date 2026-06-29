@@ -1,0 +1,107 @@
+Week 1
+Data Warehouse Basics: What is a data warehouse? Need for Data Warehousing (characteristics); What does a data warehouse do? Why is a data warehouse valuable? Data warehouses, data marts, data lakes, NoSQL, Big data? Data warehouses support organizational analysis (Data warehouse life cycle: Planning - business requirements and data modeling, Implementation - ETL Design & Development, and BI Application Development, Support / Maintenance - Maintenance, Test & Deploy), Roles and functions of various Personas (Analysts, Data Scientist, Data Engineers, Database Administrators)
+in life cycle steps (Business Requirements, Data Modeling, ETL Design & Development, BI Application Development, Maintenance, Test &
+Deploy)
+
+From book chapter 14
+
+Week 2
+OPERATIONAL DATABASES (Brief overview Data Modeling and
+Normalization, and The Relational Model)
+
+
+Warehouse Architectures and Properties: What are the different layers of a data warehouse (Data source layer, Data staging layer and ETL process, Data storage layer,
+Data presentation layer) and
+functions?
+The
+reporting/dashboards,
+presentation
+BI/data
+layer
+(tools-
+automated
+analytics,
+direct queries);
+Data
+warehouse architectures- the dimensional approach (popularized by Ralph Kimball) and the normalized approach (popularized by Bill Inmon; Bill Inmon's top-down approach and how it compares to Ralph Kimball's bottom-up approach- Characteristics,
+Pros and cons;
+Operational
+Data Stores, OLAP and OLTP systems (OLAP cube, Example, difference)
+
+From book chapter 14
+
+Week 3
+Data Warehouse Data Modeling: Data models (facts table, dimension table, Star schema, Snowflake schema, differentiate between star schema and snowflake schema); General steps in constructing
+a
+multidimensional
+data,
+Kimball's four step process (Select
+organizational process, Declare the grain, Identify the dimensions, Identify the facts); Slowly changing dimensions (Difference between type I, II, and III approaches); Row vs. column data store (Basics of computer storage, Categorizing row and column store scenarios, Why is column store faster? Which queries are faster?); Activity: creating a
+normalized snowflake schema
+
+From book chapter 14
+
+Week 4
+Implementation and Data Prep: ETL, ELT- Differences, Pros & Cons, on-premise versus an in-cloud implementation; Data cleaning (Cleaning operations, Data format cleaning, Address parsing, Data validation, De-duplication- Duplicate row elimination); Understanding data governance, On premise and cloud data warehouses (differences between on-premise and cloud, pros & cons, hybrid approach); Date warehouse design (example for a startup, Entering Data into the Warehouse, Structuring the Data Warehouse: The Star Schema, Decision Support: Analyzing the Warehouse Data), OLAP: An Example and general considerations,
+EXCEL PIVOT TABLES FOR DATA
+
+From book chapter 14
+
+Week 5
+Data Science and Analytics, Data Mining, Data Science versus Knowledge Discovery in Databases, BIG DATA, CLOUD COMPUTING (Hadoop)
+DATA MINING ETHICS
+WHAT CAN COMPUTERS LEARN? (Three Concept Views, Supervised Learning, Unsupervised Clustering)
+IS DATA MINING APPROPRIATE FOR MY PROBLEM? (Data Mining or Data
+Query? Data Mining versus Data Query: An Example DATA MINING OR KNOWLEDGE ENGINEERING?
+
+From book chapter 1
+
+Week 6
+Brief
+overview of
+DATA MINING
+STRATEGIES/Methods
+(Classification, Estimation, Regression, Prediction, Time Series Analysis, Unsupervised Clustering, Summarization, Association Rules,
+Sequence Discovery, Affinity analysis, Market Basket Analysis) The Credit Card Promotion Database, ASSOCIATION RULES, GENERATING ASSOCIATION RULES (Confidence and Support)
+INTRINSIC VALUE AND CUSTOMER CHURN
+
+From book chapter 1 and 2
+
+Week 7
+Intuitive introduction to Data Mining (or Machine learning) Algorithms for Predictive Modeling (KNN for regression and classification, Classification with
+Decision Trees
+Random Forest,
+Regression/Estimation predictions with Linear Regression)
+Data Mining for Clustering and Association: Unsupervised Data Mining for Explanatory Modeling (definition);
+Clustering and Segmentation (definition, The pseudocode of k-means algorithm, Association and Market Basket Analysis (definition, Apriori Algorithm for Association)
+NAIVE BAYES CLASSIFIER, SUPPORT VECTOR MACHINES
+
+From book chapter 1 - 3 , 11.
+
+Week 8
+Knowledge Discovery with RapidMiner: Understand the basic object and workflow structure of use RapidMiner, know how to RapidMiner for preprocessing data
+
+From book chapter 5
+
+Week 9
+GETTING STARTED WITH RAPIDMINER (Installing RapidMiner, Navigating the Interface, A First Process Model, A Decision Tree for the Credit Card Promotion Database, Breakpoints), BUILDING DECISION TREES, GENERATING RULES, ASSOCIATION RULE LEARNING, UNSUPERVISED CLUSTERING WITH K-MEANS, ATTRIBUTE SELECTION AND NEAREST NEIGHBOR
+CLASSIFICATION
+
+Didn’t told about book. So need to search
+
+Week 10
+The Knowledge Discovery Process: A PROCESS MODEL FOR KNOWLEDGE DISCOVERY (GOAL IDENTIFICATION, CREATING A TARGET DATA SET, DATA PREPROCESSING
+(Noisy
+Data, Missing
+Data),
+DATA
+TRANSFORMATION (Data Normalization, Data Type Conversion, Attribute and Instance Selection, DATA MINING or Machine Learning), INTERPRETATION AND EVALUATION TAKING ACTION), THE CRISP-D PROCESS MODEL
+
+From book chapter 6
+
+Week 11
+TIME-SERIES ANALYSIS, MINING THE WEB, MINING TEXTUAL DATA-Preprocessing, bag of word model, word embeddings-word2vec
+Techniques for large-sized, imbalanced, And streaming data
+Introduction to various problems: Document classification, document clustering, sentiment analysis
+
+From book chapter 13
